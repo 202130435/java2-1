@@ -14,3 +14,5 @@ OpenJDK (ms버전 21)설치
 이클립스 실행해서 Hello 파일 생성한 후에 Hello.java 파일 만들기
 자바는 vscode로만 진행
 자바 익스텐션 설치하고 Hello.java 파일 만들기
++Test.java 파일 만들기
+만든 파일 커밋후 푸쉬하기
