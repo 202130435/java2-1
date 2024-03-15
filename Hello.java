@@ -1,5 +1,5 @@
 public class Hello {
-    public static void main(String] args) {
-        System.out.println(x:"Hello!!! VScode가 좋아요");
+    public static void main(String[] args) {
+        System.out.println(x:"Hello");
     }
 }
